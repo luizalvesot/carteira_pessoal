@@ -15,7 +15,8 @@
         "laravel/framework": "^8.0",
         "laravel/tinker": "^2.0",
         "laravel/ui": "^3.4",
-        "livewire/livewire": "^2.12"
+        "livewire/livewire": "^2.12",
+        "twbs/bootstrap-icons": "^1.10"
     },
     "require-dev": {
         "facade/ignition": "^2.3.6",
