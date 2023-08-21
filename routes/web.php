@@ -22,9 +22,9 @@ Route::get('/', function(){
     return redirect()->route('login');
 });
 
-Route::get('/register', function(){
+/*Route::get('/register', function(){
     return redirect()->route('register');
-});
+});*/
 
 Route::fallback((function(){
     return redirect()->route('home');
