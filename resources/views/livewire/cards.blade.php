@@ -2,94 +2,66 @@
     <div class="container-fluid">
         <section>
           <div class="row">
-            <div class="col-12 mt-3 mb-1">
-              <h5 class="text-uppercase">Statistics With Subtitle</h5>
-              <p>Statistics on minimal cards with Title &amp; Sub Title.</p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-xl-6 col-md-12 mb-4">
+            <div class="col-xl-4 col-md-12 mb-4">
               <div class="card">
                 <div class="card-body">
                   <div class="d-flex justify-content-between p-md-1">
                     <div class="d-flex flex-row">
                       <div class="align-self-center">
-                        <i class="fas fa-pencil-alt text-info fa-3x me-4"></i>
+                        <i class="fas fa-circle-arrow-up text-info fa-3x me-4"></i>
                       </div>
                       <div>
-                        <h4>Total Posts</h4>
-                        <p class="mb-0">Monthly blog posts</p>
+                        <h4>Entrada</h4>
+                        <p class="mb-0 text-info">Dinheiro entrante</p>
                       </div>
                     </div>
                     <div class="align-self-center">
-                      <h2 class="h1 mb-0">18,000</h2>
+                      <h2 class="h1 mb-0">2200.00</h2>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div class="col-xl-6 col-md-12 mb-4">
-              <div class="card">
-                <div class="card-body">
-                  <div class="d-flex justify-content-between p-md-1">
-                    <div class="d-flex flex-row">
+            <div class="col-xl-4 col-md-12 mb-4">
+                <div class="card">
+                  <div class="card-body">
+                    <div class="d-flex justify-content-between p-md-1">
+                      <div class="d-flex flex-row">
+                        <div class="align-self-center">
+                            <i class="fas fa-circle-arrow-down text-danger fa-3x me-4"></i>
+                        </div>
+                        <div>
+                          <h4>Saída</h4>
+                          <p class="mb-0 text-danger">Valor usado em gastos</p>
+                        </div>
+                      </div>
                       <div class="align-self-center">
-                        <i class="far fa-comment-alt text-warning fa-3x me-4"></i>
+                        <h2 class="h1 mb-0">1000.00</h2>
                       </div>
-                      <div>
-                        <h4>Total Comments</h4>
-                        <p class="mb-0">Monthly blog posts</p>
-                      </div>
-                    </div>
-                    <div class="align-self-center">
-                      <h2 class="h1 mb-0">84,695</h2>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-xl-6 col-md-12 mb-4">
-              <div class="card">
-                <div class="card-body">
-                  <div class="d-flex justify-content-between p-md-1">
-                    <div class="d-flex flex-row">
+              <div class="col-xl-4 col-md-12 mb-4">
+                <div class="card">
+                  <div class="card-body">
+                    <div class="d-flex justify-content-between p-md-1">
+                      <div class="d-flex flex-row">
+                        <div class="align-self-center">
+                          <i class="fas fa-hand-holding-dollar text-success fa-3x me-4"></i>
+                        </div>
+                        <div>
+                          <h4>Total</h4>
+                          <p class="mb-0 text-success">Dinheiro em carteira</p>
+                        </div>
+                      </div>
                       <div class="align-self-center">
-                        <h2 class="h1 mb-0 me-4">$76,456.00</h2>
+                        <h2 class="h1 mb-0">1200.00</h2>
                       </div>
-                      <div>
-                        <h4>Total Sales</h4>
-                        <p class="mb-0">Monthly Sales Amount</p>
-                      </div>
-                    </div>
-                    <div class="align-self-center">
-                      <i class="far fa-heart text-danger fa-3x"></i>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
-            <div class="col-xl-6 col-md-12 mb-4">
-              <div class="card">
-                <div class="card-body">
-                  <div class="d-flex justify-content-between p-md-1">
-                    <div class="d-flex flex-row">
-                      <div class="align-self-center">
-                        <h2 class="h1 mb-0 me-4">$36,000.00</h2>
-                      </div>
-                      <div>
-                        <h4>Total Cost</h4>
-                        <p class="mb-0">Monthly Cost</p>
-                      </div>
-                    </div>
-                    <div class="align-self-center">
-                      <i class="fas fa-wallet text-success fa-3x"></i>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
           </div>
         </section>
       </div>
