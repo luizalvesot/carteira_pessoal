@@ -1,6 +1,5 @@
-<div class="container">
-    <div class="container-fluid">
-        <section>
+
+   <div class="container">
           <div class="row">
             <div class="col-xl-4 col-md-12 mb-4">
               <div class="card">
@@ -63,6 +62,4 @@
                 </div>
               </div>
           </div>
-        </section>
       </div>
-</div>
