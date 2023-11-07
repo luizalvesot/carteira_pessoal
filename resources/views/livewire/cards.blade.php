@@ -7,7 +7,7 @@
                   <div class="d-flex justify-content-between p-md-1">
                     <div class="d-flex flex-row">
                       <div class="align-self-center">
-                        <i class="fas fa-circle-arrow-up text-info fa-3x me-4"></i>
+                        <i class="fas fa-circle-arrow-up fa-3x me-4" style="color: #005b8fb7"></i>
                       </div>
                       <div>
                         <h4>Entrada</h4>
